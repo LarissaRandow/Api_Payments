@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SXRxJ0eYAoyRO6G3CufuvIA8LtNyIVqV04Sb7bir/IT9UNCL97fKmvPqybdDDfTPTrjlPcBA6yPF1EI65LywQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\MasterSul\\Api_Payments\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laris\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
